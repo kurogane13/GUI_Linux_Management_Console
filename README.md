@@ -18,6 +18,13 @@ ADVANTAGE: Requires no installation!
 
 * Once All the libraries are imported, inside the folder run Linux_users_and_groups.py file: python3.x     Linux_users_and_groups.py
 
+OPTIONAL: If you want a Desktop launcher for the program:
+
+    - Copy all the contents of the cloned folder (GUI_Linux_Management_Console) to your /home/$USER path
+    - Trust the GUI_LINUX.Desktop file ( sudo chmod +rx GUI_LINUX.Desktop)
+    - OPTIONAL: You can use the main_menu.png image for your Launcher.
+    - Double click the icon to launch the progam.
+
 -----------------------------------------------------------------------------------------------------------------------
 
 Mandatory to run the program:
