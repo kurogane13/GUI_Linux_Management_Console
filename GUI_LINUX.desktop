@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=GUI_LINUX
+Comment=
+Exec=gnome-terminal -- python3.6 Linux_users_and_groups.py
+Icon=/home/gus/Ubuntu_linux_penguin.png
+Terminal=false
+Type=Application
+Categories=Application
+Name[en_US]=GUI_LINUX
