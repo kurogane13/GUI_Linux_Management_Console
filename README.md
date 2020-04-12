@@ -8,15 +8,21 @@ NOTE: To view the program screenshots, access the Screenshots folder
 Author: Gustavo Wydler Azuaga - 04-12-2020
 -----------------------------------------------------------------------------------------------------------------------
 
+Mandatory to run the program:
+
+  - Python 3.x interpreter
+  - Python program libraries installed
+  - gnome-terminal 
+-----------------------------------------------------------------------------------------------------------------------
 Setup and running the program:
 
 ADVANTAGE: Requires no installation!
 
-* Clone the repo (from terminal with git clone )
+  - Clone the repo (from terminal with git clone )
 
-* Access the folder, open the  Linux_users_and_groups.py (preferred with a code editor, or python interpreter) and make sure   to import all the libraries first.
+  - Access the folder, open the  Linux_users_and_groups.py (preferred with a code editor, or python interpreter) and make         sure to import all the libraries first.
 
-* Once All the libraries are imported, inside the folder run Linux_users_and_groups.py file: python3.x     Linux_users_and_groups.py
+  - Once All the libraries are imported, inside the folder run Linux_users_and_groups.py file: python3.x                Linux_users_and_groups.py
 
 OPTIONAL: If you want a Desktop launcher for the program:
 
@@ -25,14 +31,6 @@ OPTIONAL: If you want a Desktop launcher for the program:
     - OPTIONAL: You can use the main_menu.png image for your Launcher.
     - Double click the icon to launch the progam.
 
------------------------------------------------------------------------------------------------------------------------
-
-Mandatory to run the program:
-
-  - Python 3.x interpreter
-  - Python program libraries installed
-  - gnome-terminal 
-  
 -----------------------------------------------------------------------------------------------------------------------
 
 About How the program works, its functionalities and purpose:
