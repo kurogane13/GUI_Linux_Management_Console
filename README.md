@@ -81,6 +81,6 @@ Configuration and operation modes:
  
  -----------------------------------------------------------------------------------------------------------------------
 
-Purpose: The purpose of this program, focuses on operating a linux system in a more structured and accurate manner, regarding its users and groups. Using the program accordingly, will avoid and prevent you from forgetting or missusing commands and actions, which are many to remember, unless you are an expert linux operating sysadmin in a daily fashion.
+Purpose: The purpose of this program, focuses on operating a linux system in a more structured and accurate manner, regarding its users and groups. Using the program, will avoid and prevent you from forgetting or misusing commands and actions, which are many to remember, unless you are an expert linux operating sysadmin in a daily basis.
 -----------------------------------------------------------------------------------------------------------------------
 
